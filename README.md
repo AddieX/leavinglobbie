@@ -1,3 +1,3 @@
 # leavinglobbie
 
-- if u want to user the script just clone leavinglobby-reamke.cs
+- if u want to use the script just clone leavinglobby-reamke.cs
